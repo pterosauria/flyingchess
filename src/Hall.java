@@ -15,6 +15,7 @@ public class Hall extends JComponent {
 	}
 	/*
 	 * 增加一个room
+	 * 
 	 */
 	public void add(Room room){
 		rooms.add(room);
